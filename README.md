@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DavidMartinoski 
+- 👀 I’m interested in web development, programming, game design, computer hardware.
+- 🌱 I’m currently learning  ccomputer technology and automation
